@@ -1,0 +1,870 @@
+@media (min-width: 320px) and (max-width: 575.98px){
+    
+    
+    #feedback .slick-dots li {
+        display: inline-block;
+        margin: 0 3px;
+    }
+
+    #footer-part .social-icons i {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 40px;
+        background-color: #f1f1f1;
+        color: #353535;
+        margin: 0 4px;
+        font-size: 20px;
+        transition: all linear .4s;
+    }
+
+    #footer-part .copyright-part p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 13px;
+        font-weight: 300;
+        color: #f1f1f1;
+    }
+
+    #veno-box .overlay i {
+        font-size: 65px;
+        color: #fff;
+    }
+
+    #screenshots-part .slick-dots {
+        position: absolute;
+        bottom: -35%;
+        left: 50%;
+        transform: translateX(-65%);
+    }
+
+    #feature-part h3 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: 46px;
+        text-align: right;
+        color: #000 !important;
+    }
+
+    #feature-part p {
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        /* width: 367px; */
+        /* margin-left: auto; */
+        text-align: right;
+        color: #000 !important;
+        margin-top: 34px;
+    }
+
+    #banner-part .banner-slider .banner .overlay a {
+        display: inline-block;
+        padding: 10px 17px 10px 50px;
+        margin-left: 20px;
+        background-color: #744fa0;
+        color: #fff;
+        transition: all linear .4s;
+        border-radius: 7px;
+        position: relative;
+        margin-bottom: 20px;
+    }
+
+    
+
+    #banner-part .banner-slider .banner .overlay p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: #fff;
+        padding-bottom: 14px;
+        padding-left: 0px;
+    }
+
+    #banner-part .banner-slider .banner .overlay {
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.687);
+        padding: 150px 0 150px 0;
+        text-align: right;
+    }
+
+    #banner-part .home {
+        position: absolute;
+        top: 85%;
+        right: 20px;
+        transform: translateY(-50%);
+        z-index: 9;
+        color: #744fa0;
+        font-size: 20px;
+    }
+
+    #banner-part .slick-dots {
+        position: absolute;
+        top: 92%;
+        right: 20px;
+        transform: translateY(-50%);
+    }
+
+    .size{
+        font-size: 16px !important;
+    }
+
+    .navbar ul li{
+        text-align: center;
+        
+    }
+
+    #team-part .team {
+        margin-top: 45px;
+        margin-bottom: 78px;
+        position: relative;
+    }
+
+    #team-part .team:hover .text {
+        top: 81%;
+    }
+
+    #about-part {
+        padding: 0px 0 0px 0;
+    }
+
+    #about-part .two {
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: #555555;
+        margin-top: 15px;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .nav-item:hover .nav-link::after {
+        width: 0px;
+    }
+
+    .navbar-nav{
+        padding-bottom: 12px !important;
+        background: #9a70ce !important;
+    }
+
+
+}
+
+@media (min-width: 576px) and (max-width:767.98px){
+    
+    
+
+    .navbar ul li{
+        text-align: center;
+    }
+
+    #feedback .slick-dots li {
+        display: inline-block;
+        margin: 0 3px;
+    }
+
+    #footer-part .social-icons i {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 50px;
+        background-color: #f1f1f1;
+        color: #353535;
+        margin: 0 10px;
+        font-size: 25px;
+        transition: all linear .4s;
+    }
+
+    #footer-part .copyright-part p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 17px;
+        font-weight: 300;
+        color: #f1f1f1;
+    }
+
+    #veno-box .overlay i {
+        font-size: 65px;
+        color: #fff;
+    }
+
+    #screenshots-part .slick-dots {
+        position: absolute;
+        bottom: -15%;
+        left: 50%;
+        transform: translateX(-65%);
+    }
+
+    .button .four {
+        padding: 8px 15px;
+        background-color: white;
+        border: 1px solid #000;
+        border-radius: 6px;
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        color: #353535;
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        transform: translate(-50%,50%);
+        transition: .5s;
+    }
+
+    #team-part .team .img .overlay i {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        background-color: white;
+        text-align: center;
+        line-height: 60px;
+        margin: 0 10px;
+        color: #353535;
+        transition: .5s;
+        font-size: 26px;
+    }
+
+    #feature-part h3 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: 46px;
+        text-align: right;
+        color: #000 !important;
+    }
+
+    #feature-part p {
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        /* width: 367px; */
+        /* margin-left: auto; */
+        text-align: right;
+        color: #000 !important;
+        margin-top: 34px;
+    }
+
+    #banner-part .banner-slider .banner .overlay a {
+        display: inline-block;
+        padding: 10px 17px 10px 50px;
+        margin-left: 20px;
+        background-color: #744fa0;
+        color: #fff;
+        transition: all linear .4s;
+        border-radius: 7px;
+        position: relative;
+        margin-bottom: 20px;
+    }
+
+    
+
+    #banner-part .banner-slider .banner .overlay p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: #fff;
+        padding-bottom: 14px;
+        padding-left: 0px;
+    }
+
+    #banner-part .banner-slider .banner .overlay {
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.687);
+        padding: 150px 0 150px 0;
+        text-align: right;
+    }
+
+    #banner-part .home {
+        position: absolute;
+        top: 81%;
+        right: 36px;
+        transform: translateY(-50%);
+        z-index: 9;
+        color: #744fa0;
+        font-size: 20px;
+    }
+
+    #banner-part .slick-dots {
+        position: absolute;
+        top: 89%;
+        right: 35px;
+        transform: translateY(-50%);
+    }
+
+    .size{
+        font-size: 16px !important;
+    }
+
+    .navbar ul li{
+        text-align: center;
+        
+    }
+
+    #team-part .team {
+        margin-top: 45px;
+        margin-bottom: 78px;
+        position: relative;
+    }
+
+    #team-part .team:hover .text {
+        top: 89%;
+    }
+
+    #about-part {
+        padding: 0px 0 0px 0;
+    }
+
+    #about-part .two {
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: #555555;
+        margin-top: 15px;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .nav-item:hover .nav-link::after {
+        width: 0px;
+    }
+
+    .navbar-nav{
+        padding-bottom: 12px !important;
+        background: #9a70ce !important;
+        padding-top: 5px !important;
+    }
+
+    #feature-part i {
+        font-size: 32px;
+        position: absolute;
+        top: 10px;
+        left: 0;
+    }
+
+    
+    
+
+    #feature-part a::after {
+        width: 225px !important;
+        height: 1px;
+        background: #000;
+        position: absolute;
+        bottom: -15px;
+        left: 0;
+        content: "";
+        transition: .4s;
+    }
+   
+
+    #feature-part .active::after {
+        background: #744fa0 !important;
+        width: 248px !important;
+    }
+
+    
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px){
+    
+    
+
+    .navbar ul li{
+        text-align: center;
+    }
+
+    #feedback .slick-dots li {
+        display: inline-block;
+        margin: 0 3px;
+    }
+
+    #footer-part .social-icons i {
+        width: 55px;
+        height: 55px;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 55px;
+        background-color: #f1f1f1;
+        color: #353535;
+        margin: 0 10px;
+        font-size: 26px;
+        transition: all linear .4s;
+    }
+
+    #footer-part .copyright-part p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        color: #f1f1f1;
+    }
+
+    #veno-box .overlay i {
+        font-size: 65px;
+        color: #fff;
+    }
+
+    #screenshots-part .slick-dots {
+        position: absolute;
+        bottom: -12%;
+        left: 50%;
+        transform: translateX(-65%);
+    }
+
+    #feature-part h3 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: 46px;
+        text-align: right;
+        color: #000 !important;
+    }
+
+    #feature-part p {
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        /* width: 367px; */
+        /* margin-left: auto; */
+        text-align: right;
+        color: #000 !important;
+        margin-top: 34px;
+    }
+
+    #banner-part .banner-slider .banner .overlay a {
+        display: inline-block;
+        padding: 10px 17px 10px 50px;
+        margin-left: 20px;
+        background-color: #744fa0;
+        color: #fff;
+        transition: all linear .4s;
+        border-radius: 7px;
+        position: relative;
+        margin-bottom: 20px;
+    }
+
+    
+
+    #banner-part .banner-slider .banner .overlay p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: #fff;
+        padding-bottom: 14px;
+        padding-left: 0px;
+    }
+
+    #banner-part .banner-slider .banner .overlay {
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.687);
+        padding: 150px 0 150px 0;
+        text-align: right;
+    }
+
+    #banner-part .home {
+        position: absolute;
+        top: 81%;
+        right: 43px;
+        transform: translateY(-50%);
+        z-index: 9;
+        color: #744fa0;
+        font-size: 20px;
+    }
+
+    #banner-part .slick-dots {
+        position: absolute;
+        top: 90%;
+        right: 41px;
+        transform: translateY(-50%);
+    }
+
+    .size{
+        font-size: 16px !important;
+    }
+
+    .navbar ul li{
+        text-align: center;
+        
+    }
+
+    #team-part .team {
+        margin-top: 45px;
+        margin-bottom: 78px;
+        position: relative;
+    }
+
+    #team-part .team:hover .text {
+        top: 92%;
+    }
+
+    #about-part {
+        padding: 0px 0 0px 0;
+    }
+
+    #about-part .two {
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: #555555;
+        margin-top: 15px;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .nav-item:hover .nav-link::after {
+        width: 0px;
+    }
+
+    .navbar-nav{
+        padding-bottom: 12px !important;
+        background: #9a70ce !important;
+        padding-top: 5px !important;
+    }
+
+    #feature-part i {
+        font-size: 32px;
+        position: absolute;
+        top: 10px;
+        left: 0;
+    }
+
+    
+    
+
+    #feature-part a::after {
+        width: 225px !important;
+        height: 1px;
+        background: #000;
+        position: absolute;
+        bottom: -15px;
+        left: 0;
+        content: "";
+        transition: .4s;
+    }
+   
+
+    #feature-part .active::after {
+        background: #744fa0 !important;
+        width: 235px !important;
+    }
+
+
+    .six {
+        margin-top: 20px;
+        font-family: 'Raleway', sans-serif;
+        font-size: 28px;
+        font-weight: 600;
+    }
+
+
+    #team-part .team .img .overlay i {
+        width: 65px;
+        height: 65px;
+        border-radius: 50%;
+        background-color: white;
+        text-align: center;
+        line-height: 65px;
+        margin: 0 10px;
+        color: #353535;
+        transition: .5s;
+        font-size: 27px;
+    }
+
+    .button .four {
+        padding: 8px 15px;
+        background-color: white;
+        border: 1px solid #000;
+        border-radius: 6px;
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        color: #353535;
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        transform: translate(-50%,50%);
+        transition: .5s;
+    }
+
+    
+
+   
+
+    
+
+    
+
+}
+
+@media (min-width: 992px) and (max-width:1199.98px){
+    
+    .navbar ul li{
+        text-align: center;
+    }
+
+    #feedback .slick-dots li {
+        display: inline-block;
+        margin: 0 3px;
+    }
+
+    #footer-part .social-icons i {
+        width: 55px;
+        height: 55px;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 55px;
+        background-color: #f1f1f1;
+        color: #353535;
+        margin: 0 10px;
+        font-size: 26px;
+        transition: all linear .4s;
+    }
+
+    #footer-part .copyright-part p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        color: #f1f1f1;
+    }
+
+    #veno-box .overlay i {
+        font-size: 88px;
+        color: #fff;
+    }
+
+    #screenshots-part .slick-dots {
+        position: absolute;
+        bottom: -24%;
+        left: 50%;
+        transform: translateX(-65%);
+    }
+
+    #feature-part h3 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: 46px;
+        text-align: right;
+        color: #000 !important;
+    }
+
+    #feature-part p {
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        /* width: 367px; */
+        /* margin-left: auto; */
+        text-align: right;
+        color: #000 !important;
+        margin-top: 34px;
+    }
+
+    #banner-part .banner-slider .banner .overlay a {
+        display: inline-block;
+        padding: 10px 17px 10px 50px;
+        margin-left: 20px;
+        background-color: #744fa0;
+        color: #fff;
+        transition: all linear .4s;
+        border-radius: 7px;
+        position: relative;
+        margin-bottom: 20px;
+    }
+
+    
+
+    #banner-part .banner-slider .banner .overlay p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: #fff;
+        padding-bottom: 14px;
+        padding-left: 0px;
+    }
+
+    #banner-part .banner-slider .banner .overlay {
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.687);
+        padding: 150px 0 150px 0;
+        text-align: right;
+    }
+
+    #banner-part .home {
+        position: absolute;
+        top: 81%;
+        right: 35px;
+        transform: translateY(-50%);
+        z-index: 9;
+        color: #744fa0;
+        font-size: 20px;
+    }
+
+    #banner-part .slick-dots {
+        position: absolute;
+        top: 90%;
+        right: 34px;
+        transform: translateY(-50%);
+    }
+
+    .size{
+        font-size: 16px !important;
+    }
+
+    .navbar ul li{
+        text-align: center;
+        
+    }
+
+    #team-part .team {
+        margin-top: 45px;
+        margin-bottom: 78px;
+        position: relative;
+    }
+
+    #team-part .team:hover .text {
+        top: 82%;
+    }
+
+    #about-part {
+        padding: 83px 0 0px 0;
+    }
+
+    #about-part .two {
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: #555555;
+        margin-top: 15px;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .nav-item:hover .nav-link::after {
+        width: 0px;
+    }
+
+    /* .navbar-nav{
+        padding-bottom: 12px !important;
+        background: #9a70ce !important;
+        padding-top: 5px !important;
+    } */
+
+    #feature-part i {
+        font-size: 32px;
+        position: absolute;
+        top: 10px;
+        left: 0;
+    }
+
+    
+    
+
+    #feature-part a::after {
+        width: 225px !important;
+        height: 1px;
+        background: #000;
+        position: absolute;
+        bottom: -15px;
+        left: 0;
+        content: "";
+        transition: .4s;
+    }
+   
+
+    #feature-part .active::after {
+        background: #744fa0 !important;
+        width: 235px !important;
+    }
+
+
+    .six {
+        margin-top: 20px;
+        font-family: 'Raleway', sans-serif;
+        font-size: 28px;
+        font-weight: 600;
+    }
+
+
+    
+
+    .button .four {
+        padding: 8px 15px;
+        background-color: white;
+        border: 1px solid #000;
+        border-radius: 6px;
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        color: #353535;
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        transform: translate(-50%,50%);
+        transition: .5s;
+    }
+
+    .bts {
+        padding: 6px 11px;
+        background-color: #744fa0;
+        color: #f1f1f1;
+        border-radius: 5px;
+        font-family: 'Raleway', sans-serif;
+        font-size: 19px;
+        font-weight: 700;
+        margin-bottom: 70px;
+        border: 0;
+    }
+
+
+
+}
+
+@media (min-width: 1200px) and (max-width:1399.98px){
+    #banner-part .home {
+        position: absolute;
+        top: 39%;
+        right: 10px;
+        transform: translateY(-50%);
+        z-index: 9;
+        color: #744fa0;
+        font-size: 20px;
+    }
+
+    #banner-part .slick-dots {
+        position: absolute;
+        top: 49%;
+        right: 9px;
+        transform: translateY(-52%);
+    }
+
+    #screenshots-part .slick-dots {
+        position: absolute;
+        bottom: -21%;
+        left: 50%;
+        transform: translateX(-65%);
+    }
+
+    #veno-box .overlay i {
+        font-size: 100px;
+        color: #fff;
+    }
+
+    
+
+}
+
+@media (min-width: 1400px){
+
+
+    #screenshots-part .slick-dots {
+        position: absolute;
+        bottom: -17%;
+        left: 50%;
+        transform: translateX(-65%);
+    }
+
+    
+}
